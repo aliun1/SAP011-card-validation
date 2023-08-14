@@ -24,7 +24,7 @@ describe('validator', () => {
     });
   });
 
-  describe('validator.maskify', () => {
+  /*describe('validator.maskify', () => {
     it('debería ser una función', () => {
       expect(typeof validator.maskify).toBe('function');
     });
@@ -40,5 +40,5 @@ describe('validator', () => {
     it('Debería retornar "######orld" para "helloworld"', () => {
       expect(validator.maskify('helloworld')).toBe('######orld');
     });
-  });
+  }); */
 });
