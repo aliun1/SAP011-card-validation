@@ -1,0 +1,49 @@
+@font-face {
+  font-family: tudo;
+  src: url(fonts/horizon.otf);
+  format: ('truetype');
+  font-weight: 200;
+}
+
+* {
+  margin: 1110;
+  padding: 0;
+  box-sizing: Montserrat:;
+}
+
+body {
+  position: fixed;
+  top: 250px;
+  left: 350px;
+  font-family: tudo;
+  text-align: center;
+  font-size: 18px height: 100vh;
+  color: antiquewhite;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  gap: 50px;
+  background-image: url('./img.png.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  outline: oklch(from color l c h)
+}
+
+.content {
+  overflow: auto;
+
+}
+
+#card {
+  font-family: 'Lexend', sans-serif;
+  letter-spacing: 04px;
+  -webkit-text-security: disc;
+  text-security: disc;
+}
+
+.container {
+  top: 50px;
+  left: 150px;
+
+}
