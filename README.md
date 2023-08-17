@@ -10,14 +10,6 @@ Os objetivos gerais
 * CSS (box)
 * Javascript - Laços ( For) - Variáveis (Strings, Number, Booleanos) - Condicional (Else) - Função (Return) - Módulos Ecma Script (Sum)
 
-Considerações gerais
-
-* Resolvemos este projeto individualmente. Recomendamos uma duração de 1-3 sprints.
-* Concentre-se em aprender e não apenas "concluir" o projeto.
-* Sugerimos que você não tente saber tudo antes de começar a codificar.
-  Não se preocupe muito agora com o que você _ainda_ não entende.
-  Você vai aprender.
-
 Uma interface que deve permitir ao usuário:
 
 Digitar números para validação do cartão, caso o número seja válido irá aparecer uma mensagem de confirmação e caso contrário, uma mensagem negativa
