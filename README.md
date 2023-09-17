@@ -18,7 +18,7 @@ Digitar números para validação do cartão, caso o número seja válido irá a
 
 ![image](https://github.com/aliun1/SAP011-card-validation/assets/137254396/548c4b70-5ed2-45c9-aaa3-9bb599e3b915)
 
-## Autora
+## Criação
 
 Aline Vieira 👩‍💻
 https://www.linkedin.com/in/alinejvieira/
