@@ -1,6 +1,6 @@
 # Cartão de Crédito Válido 
 
-## Introdução
+## Introdução 📌
 
 Esse projeto tem a função principal de simular uma página de pagamento da loja esportiva Nike, e após a digitação dos número do cartão e ser confirmada a validação, o cliente será direcionado para a página de preenchimento do endereço para entrega do produto que foi selecionado para compra ludicamente. 
 
