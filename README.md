@@ -6,8 +6,8 @@ Esse projeto tem a função principal de simular uma página de pagamento da loj
 
 ## Os objetivos gerais 🤓
 
-* Html Semantico
-* CSS (box)
+* Html Semântico
+* CSS (Box);
 * Javascript: Laços (For); (Strings, Number, Booleanos); Condicional (Else); Função (Return); Módulos Ecma Script (Sum);
 
 ## Uma interface que deve permitir ao usuário 
