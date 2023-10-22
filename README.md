@@ -10,7 +10,7 @@ Esse projeto tem a função principal de simular uma página de pagamento da loj
 * CSS (Box);
 * Javascript: Laços (For); (Strings, Number, Booleanos); Condicional (Else); Função (Return); Módulos Ecma Script (Sum);
 
-## Uma interface que deve permitir ao usuário 
+## Uma interface que deve permitir ao usuário 💻
 
 Digitar números para validação do cartão, caso o número seja válido irá aparecer uma mensagem de confirmação e caso contrário, uma mensagem negativa.
 
